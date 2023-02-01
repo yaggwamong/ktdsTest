@@ -6,6 +6,7 @@ public class TodoItemVO {
 	 * 완료여부 : boolean (true일 경우는 완료,false는 미완료)
 	 * 아이템명: String
 	 */
+	//ㅁㄴㅇㅁㄴㅇ
 	// 상수
 	// 변수
 	/**
